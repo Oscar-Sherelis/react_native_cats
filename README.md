@@ -17,8 +17,8 @@ To start project
 * In browser scan QR code with android / ios device
 
 ### DEMO
-scan QR code with android / ios device
 ![FIRST_STUDENT](https://github.com/Oscar-Sherelis/react_native_cats/blob/master/images_for_readme/qr.png)
+scan QR code with android / ios device
 
 
 ### About app
