@@ -11,7 +11,15 @@
 In project root directory install packages with command - npm i
 
 To start project
+
+expo must be installed on android / ios device
 run command - npm run start
+In browser scan QR code with android / ios device
+
+### DEMO
+scan QR code with android / ios device
+![FIRST_STUDENT]()
+
 
 ### About app
 
